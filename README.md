@@ -1,6 +1,5 @@
 # TheHumanPoseDetectionProject
 Hello! This is JackyJerky. Thank you for being interested into my project!
-I made a youtube video about this project: https://www.youtube.com/watch?v=2Tuuuo--puo
 
 How to use?
   Go to your terminal and simply run these four programs
