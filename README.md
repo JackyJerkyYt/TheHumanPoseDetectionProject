@@ -13,7 +13,7 @@ What I used:
   2. Socket for communicating between the four programs
 
 
-Note1: This is the very first project I did, and I actually did this a year ago. At that time I am still very new to computer science
+Note1: This is the very first project I did, and I actually did this in 2021. At that time I am still very new to computer science
 so you can see that some of the code may not be very good. But overall it works
 
 Note2: both of your arms have to be lifted up to be consider playing. If you put down both of your arms, the program wont run.
